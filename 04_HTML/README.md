@@ -1,4 +1,4 @@
-# Summary Version Control and Branch Management (Git)
+# Basic HTML
 1. Html adalah sebuah bahasa markup yang digunakan untuk menyusun tampilan website, html adalah fondasi dari sebuah website
 
 2. menulis html yaitu dengan menggunakan tag seperti tag <p></p> yang artinya paragraf tag <Header> tag <footer> dan masih banyak lagi
