@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create Product</title>
+  </head>
+  <body>
+    <h1>Create Product</h1>
+    <h2>Detail Product</h2>
+    <form>
+      <label for="name">Product name:</label> <br />
+      <input type="text" id="name" required minlength="6" maxlength="50"/>
+      <br />
+      <label for="category">Product Category</label>
+      <br />
+      <select name="cars" id="category" required>
+        <option value="makana">makanan</option>
+        <option value="minuman">minuman</option>
+        <option value="elektronik">Elektronik</option>
+        <option value="fashion">fashion</option>
+      </select>
+      <br>
+      <label for="">Product Freshness: </label>
+      <br>
+
+      <input type="radio" id="baru" name="freshness" value="baru" required>
+      <label for="baru">Brand new</label>
+      <br>
+      <input type="radio" id="bekas" name="freshness" value="bekas" required>
+      <label for="bekas">Second Hank</label>
+      <br>
+      <input type="radio" id="bekas" name="freshness" value="bekas" required>
+      <label for="bekas">Refurbished</label>
+      <br>
+      <p>Image of product <input type="file" placeholder="Choose File" required> </p> 
+      <p>Additional Description:</p> <textarea name="description" id="description" cols="30" rows="10" required></textarea> <br>
+      <label>Product Price:</label> <br>
+      <input type="number" name="price" id="price" required > <br>
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
