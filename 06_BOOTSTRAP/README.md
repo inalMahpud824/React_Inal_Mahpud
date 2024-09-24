@@ -1,2 +1,4 @@
-# React_Inal_Mahpud_batch_7
-repository untuk mengumpulkan tugas Alterra Academy kelas React batch 7
+# SUMMARY MATERI BOOTSTRAP
+1. Freamwork adalah sekumpulan aturan kode yang bisa digunakan untuk mempermudah dan mempercepat pengembangan. Bootstrap termasuk kedalam salah satu freamwork css.
+2. Cara menggunakan Bootstrap yaitu dengan cara menambahkan class yang di sediakan Bootstrap (bisa dilihat di dokumentasi) kedalam tag di html, untuk menginstall bootstrap ada berbagai cara bisa menggunakan package manager seperti NPM, Composer dll, tetapi yang paling mudah dalam menginstall bootstrap yaitu dengan CDN caranya kita hanya mengcopy tag link dan script yang di sediakan oleh bootstrap lalu tambahkan kedalam file html kita.
+3. Walaupun bootstrap telah menyediakan class component yang ada tetapi kita juga bisa mengcustom nya dengan cara menulis kembali class nya di file css dan memasukan atribut yang ingin dirubah. Ada banyak sekali freamwork seperti Bootstrap ada tailwind yang menawarkan utility class ada animate.css, wow.js dan lain-lain
