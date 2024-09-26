@@ -1,2 +1,4 @@
-# React_Inal_Mahpud_batch_7
-repository untuk mengumpulkan tugas Alterra Academy kelas React batch 7
+# Summary Materi Figma
+1. Figma adalah sebuah alat editor grapik vektor berbasis web dimana alat ini bisa untuk mendesain sebuah tampilan aplikasi web maupun mobile, tidak hanya itu figma juga dapat digunakan untuk membuat diagram, banner tergantung penggunaan.
+2. Keuntungan Figma yaitu karena aplikasi ini gratis! selain itu figma juga bisa dijalankan di mac ataupun windows, figma juga bisa melakukan realtime kolaborasi dan juga bisa mengkonversi menjadi sebuah kode css ataupun kode android seperti flutter atau kotlin.
+3. Salah satu kelemahan terbesar Figma yaitu Figma harus selalu terhubung ke internet, walaupun begitu dibandingkan keuntungan yang didapat kelemahan ini jauh sekali dari manfaat nya. Biasanya Developer menggunakan Figma untuk Slicing UI dari para designer yang telah membuat UI/UX di figma.
