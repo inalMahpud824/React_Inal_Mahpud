@@ -1,2 +1,4 @@
-# React_Inal_Mahpud_batch_7
-repository untuk mengumpulkan tugas Alterra Academy kelas React batch 7
+# Summary Javascript Refreshment
+1. JavaScript adalah sebuah pemrograman yang biasa digunakan untuk membuat website lebih dinamas. tetapi saat ini javascript tidak hanya di gunakan di sisi client saat ini  bisa digunakan di sisi server (backend) dengan menggunakan node js sebagai runtime
+2. untuk penulisan variable di javascript bisa menggunakan let atau const lalu bisa mengisi nilai variable nya secara langsung sebagai contoh let a = 1. Ada beberapa method bawaan dari javascript untuk mempermudah penggunaan, seperti method short untuk mengurutkan array dari yang terkecil hingga yang terbesar, ada method yang lain seperti map, concat, foreach, filter, reduce dan masih banyak lagi
+3. sama seperti bahasa pemrograman lainya untuk mengotrol alur kode bisa menggunakan pengkondisian seperti If Else. Di Javascrip ada dua cara menulis function pertama yaitu declaration function seperti ini: function namaFuction() {} satu lagi ada arrow fuction seperti: const namaFuction = () => {}

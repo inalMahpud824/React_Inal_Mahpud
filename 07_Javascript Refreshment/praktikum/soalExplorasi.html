@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Soal Explorasi</title>
+  </head>
+  <body>
+    <div id="quote"></div>
+    <div id="quoteAsync"></div>
+
+    <button onclick="displayQuote()">Generate Quote</button>
+    <button onclick="getQuote()">Get Random Quote</button>
+
+    <script>
+      const quote = document.getElementById("quote");
+      const quoteAsync = document.getElementById("quoteAsync");
+      const quotes = [
+        "Batasan satu-satunya untuk esok adalah keraguan kita hari ini.",
+
+        "Tujuan hidup kita adalah untuk bahagia.",
+
+        "Hidup adalah apa yang terjadi saat kita sibuk membuat rencana lain.",
+      ];
+
+      function displayQuote() {
+        const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+        quote.innerHTML = randomQuote;
+        // Kode kamu di sini
+      }
+      async function getQuote() {
+        quoteAsync.innerHTML = "pending...";
+        // Kode kamu di sini
+        const randomQuote = setTimeout(() => {
+          const kutip = quotes[Math.floor(Math.random() * quotes.length)];
+          quoteAsync.innerHTML = kutip;
+        }, 2000);
+      }
+    </script>
+  </body>
+</html>
