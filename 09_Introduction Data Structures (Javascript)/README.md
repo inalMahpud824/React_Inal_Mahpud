@@ -1,2 +1,4 @@
-# React_Inal_Mahpud_batch_7
-repository untuk mengumpulkan tugas Alterra Academy kelas React batch 7
+# Summary Introduction Data Structures (javascript)
+1. Struktur data adalah cara mengatur, menyimpan, dan mengorganisir data di dalam komputer agar dapat diakses, diolah, dan dimanipulasi secara efisien. kenapa harus mempelajari data struktur? karena dengan mengerti data struktur kode yang kita buat dapat lebih singkat dan mudah dibaca tentusaja akan lebih effisien.
+2. Ada dua basic data struktur di javascript yaitu array dan set. array adalah kumpulan data dengan index sebagai penanda untuk aksesnya array dimulai dari index ke 0 dan seterusnya. sedangkan set mirip dengan array hanya saja set tidak boleh ada duplikasi data.
+3. untuk memanipulasi array dan set ada beberapa method bawaan javascript seperti untuk array ada namanya indexOf() untuk mencari index kebarapa dari array, push() digunakan untuk menambahkan data baru ke index terakhir, pop() memunculkan sekaligus menghapus data dari index terakhir.
