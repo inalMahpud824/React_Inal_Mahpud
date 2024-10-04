@@ -1,2 +1,4 @@
-# React_Inal_Mahpud_batch_7
-repository untuk mengumpulkan tugas Alterra Academy kelas React batch 7
+# Summary Introduction React
+1. React adalah liblary javascript untuk membuat user interface (UI) yang interaktif dan cepat baik untuk web maupun mobile. react di pertama kali di ciptakan oleh perusahaan facebook dan saat ini masih di kelola oleh Meta dan komunitas nya karena react bersifat Open Source.
+2. React Bersifat Declaratif, Coponent Based dan juga Learn one write anywhere. React Menggunakan virtual dom yang artinya react akan menyimpan state atupun perubahan di memory dan membandingkan Dom yang asli denga virtual lalu memperbarui hanya yang berubah dari DOM nya.
+3. Ada beberpa tools yang harus di persiapkan untuk menggunak react yang pertama adalah web Browser lalu Text Editor lalu terminal atau CMD, bash dll. Untuk mengistall react bisa menggunakn Vite dan Juga CRA(create react app). Ohh tentu saja sebelum menginstall harus sudah di install terlebih dahulu nodejs
