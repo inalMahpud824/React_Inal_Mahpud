@@ -1,0 +1,76 @@
+.navbar-nav a,
+.navbar-nav button {
+  margin: 0 10px;
+}
+
+.container p {
+  max-width: 750px;
+}
+
+.cont-form {
+  margin: 0 2rem;
+  padding: 0 12rem;
+}
+.form-input .name-product {
+  max-width: 300px;
+}
+.form-input .category-product {
+  max-width: 270px;
+}
+.image-product {
+  max-width: 250px;
+}
+#input-file {
+  color: #0d6efd;
+  border-color: #0d6efd;
+}
+#input-file::file-selector-button {
+  background-color: #0d6efd;
+  color: white;
+}
+#text-description {
+  min-height: 116px;
+}
+
+/* form button {
+  display: flex;
+  justify-content: center;
+} */
+.button-submit {
+  width: 50% !important;
+}
+
+/* Style the label to look like the file input */
+.custom-file-upload {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.custom-file-upload:hover {
+  background-color: #45a049;
+}
+
+@media screen and (max-width: 1024px) {
+  .cont-form {
+    margin: 0 4rem;
+    padding: 0 2.5rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cont-form {
+    margin: 0 1rem;
+    padding: 0 1rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .cont-form {
+    margin: 0;
+    padding: 0;
+  }
+}
