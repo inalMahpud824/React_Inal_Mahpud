@@ -7,4 +7,5 @@
 </BrowserRouter>
 ```
 kode di atas jika kita mengakses url '/' maka akan tampil komponent Home. Untuk menangani ParameterURL di react router kita bisa menggunakan ``` path='/profile/:id' ``` ':id' adalah parameter. karna kita sudah menggunakan react-router maka di jsx tidak lagi menggunakan tag ```<a> </a>``` tetapi menggunakan tag ``` <Link to='url'> </Link> ``` yang di sediakan oleh react-router.
+
 3. Ada beberapa Hooks bawaan react-router seperti useHistory, useLocation, useParams, useRouteMatch. useHistory memungkinkan kita untuk melakukan navigasi programatis antara halaman, seperti mengarahkan pengguna ke halaman lain atau kembali ke halaman sebelumnya. useLocation menyediakan informasi mengenai URL saat ini, termasuk pathname, search query, dan state. useParams berguna untuk mengambil parameter dari URL dinamis, misalnya saat kita ingin menampilkan detail suatu item berdasarkan ID-nya. Terakhir, useRouteMatch digunakan untuk memeriksa apakah rute tertentu cocok dengan URL saat ini, yang berguna untuk menampilkan komponen yang berbeda berdasarkan rute. 
