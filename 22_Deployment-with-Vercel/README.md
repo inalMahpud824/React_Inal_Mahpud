@@ -1,0 +1,4 @@
+# Summary Deplment With Vercel
+1. Vercel adalah platform end-to-end untuk developer, yang artinya vercel menyediakan mulai dari tahap  pengembangan sampai tahap akhir yaitu tahap deploy. Deploy adalah sebiah proses dimana agar aplikasi kita bisa diakses secara global oleh user, vercel adalah salah satu platform yang menyediakan deplyoment untuk nodejs.
+2. cara deploy di vercel yaitu pertama membuat akun vercel terlebih dahulu, bisa menggunakan akun github atau email yang laing, setelah itu bisa dengan klik new add project, jika kamu mendaftarkan akun dengan github maka akan otomatis akan tersambung dengan repo githubnya, lalu cari project yang sudah ada di github kita, lalu setelah itu tinggal next dan selesai project nya sudah di deploy.
+3. Tidak hanya vercel untuk mendeploy aplikasi, kita bisa menggunakan google cloud, aws, heroku, netlify dan lain-lain. ini hasil deploy project saya: "https://coba-deploy-form.vercel.app/"
