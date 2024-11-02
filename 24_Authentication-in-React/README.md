@@ -1,0 +1,4 @@
+# Summary Authentication in React
+1. Authentication berbeda dengan Authorization dimana otentikasi adalah proses mengvalidasi apakah dia adalah user yang sudah ada, sedangkan otorisasi adalah proses menentukan hak akses konten, seperti apa saja yang bisa di lakukan
+2. scema login yang simple yaitu seperti jika user mempunyai token maka token tersebut di validasi jika gagal maka akan langsung ke halaman login, jika berhasil maka akan dapat mengakses konten yang mengharuskan login.
+3. dalam penggunaanya aut bisa di tulis secara statik yaitu langsung validasi berdasarkan data yang sudah ada, atau bisa dinamis seperti mengvalidasi email password ke server.
