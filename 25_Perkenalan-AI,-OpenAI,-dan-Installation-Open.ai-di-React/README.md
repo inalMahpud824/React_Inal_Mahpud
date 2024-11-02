@@ -1,0 +1,5 @@
+# Summary Perkenalan AI, OpenAI, dan Installation Open.ai di React
+1. AI atau kecerdasan buatan adalah suatu mesin yang bisa melakukan tugas dan berpikir layaknya manusia. Cara kerja AI yaitu AI memprediksi atau mengambil keputusan berdasarkan suatu data. Saat ini AI sudah banyak di implementasikan seperti fitur pengenalan wajah, fitur pengenalan suara, bahkan untuk developer pun ada seperti github copilot.
+2. Pengaruh AI terhadap kehidupan memiliki sisi negatif dan positif, untuk sisi negatif seperti: pergeseran lapangan kerja, privasi dan keamanan, ketergantungan teknologi, kurangya transparansi dan kejelasan dan lain-lain. Tentu terlepas dari sisi negatif ada sisi positif seperti, pekerjaan menjadi lebih cepat.
+3. AI seperti chatGPT dari Open.AI atau gemini dari google bisa kita implementasi kan kedalam aplikasi react dengan cara melakukan request api, tetapi biasnya mereka menyediakan liblary yang harus di install seperti liblary gemini yaitu jika di node js namanya "google/generative-ai" untuk panduan selengkapnya bisa di baca di dokumentasi resmi nya.
+"
