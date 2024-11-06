@@ -1,0 +1,4 @@
+# Summary Basic Model OpenAI dan Prompt Engginer di React
+1. Model OpenAI pada platform openai.com adalah sebuah sistem kecerdasan buatan yang dapat digunakan untuk mempelajari data dan pola yang diberikan. Dengan mempelajari model dan promping kita mendapatkan keuntungan seperti meningkatkan penggunaan model open AI, menjadi bagian dari komunitas AI, membangun aplikasi AI yang lebih relavan, dan lain-lain.
+2. OpenAI punya beberapa jenis AI seperti chatGPT-4 dan chatGPT-3.5 yaitu ai dengan model bahasa alami terbesar dan canggih yang dikembangkan oleh OpenAI, DALL-E AI yang dapat membuat gambar berdasarkan teks, dan lain-lain.
+3. Promping yang benar yaitu memasukan data-data secara lengkap jangan hanya sebuah pertanyaan tanpa contoh atau pun pertanyaan general, lebih spesifik maka hasil yang didapatkan akan lebih bagus. Untuk praktik di react kita bisa memasukan prompt kita di ikuti inputan user, jadi data yang dikirimkan adalah promptkita + inputanUser
